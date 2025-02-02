@@ -136,10 +136,11 @@ packages:
   flutter_sodium:
     dependency: transitive
     description:
-      name: flutter_sodium
-      sha256: "0e8c475088f8c9a60fda0ef19ee42cdcb574f8549c8ea809f736ef60e8ad51a6"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "73171341a43ebb9041b15c6fe43e620d0e281d93"
+      url: "https://github.com/TalaoDAO/flutter_sodium.git"
+    source: git
     version: "0.2.0"
   flutter_test:
     dependency: "direct dev"
