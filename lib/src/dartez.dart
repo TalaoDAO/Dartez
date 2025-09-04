@@ -18,7 +18,6 @@ import 'package:dartez/helper/http_helper.dart';
 import 'package:dartez/helper/operation_helper.dart';
 import 'package:dartez/packages/password_hash/pbkdf2.dart';
 import 'package:dartez/reporting/tezos/tezos_conseil_client.dart';
-import 'package:dartez/src/soft-signer/soft_signer.dart';
 import 'package:dartez/dartez.dart';
 import 'package:dartez/utils/sodium/sodium_utils.dart';
 import "package:unorm_dart/unorm_dart.dart" as unorm;
